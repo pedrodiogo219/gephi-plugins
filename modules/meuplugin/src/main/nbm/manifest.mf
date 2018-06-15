@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Meu plugin incrivel
+OpenIDE-Module-Short-Description: melhor plugin do mundo
+OpenIDE-Module-Long-Description: agora vai
+OpenIDE-Module-Display-Category: Layout
